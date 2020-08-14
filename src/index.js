@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'uswds/dist/js/uswds.min';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
